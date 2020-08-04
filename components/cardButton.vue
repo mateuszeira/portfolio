@@ -37,9 +37,6 @@
   }
 
   @media screen and (max-width: 1080px) {
-    .card-buttons {
-      flex-direction: column;
-    }
     .button {
       border-radius: 0 !important;
       border-right: none;

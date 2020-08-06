@@ -27,7 +27,7 @@
     border-radius: 12px;
     box-shadow: 0 0 12px #999;
     background-color: #fff !important;
-    width: 60%;
+    max-width: 60%;
   }
 
   .card-content {
@@ -44,6 +44,7 @@
 
   @media screen and (max-width: 1080px) {
     .card {
+      width: 90%;
       max-width: 90%;
     }
     .card-buttons {

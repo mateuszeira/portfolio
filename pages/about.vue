@@ -6,7 +6,7 @@
     <hr />
     <p>I am proficient with a lot of programming languages such as HTML/CSS/JS, Python3, C++, Rust, etc. Primarily, I use JS and am familiar with technologies such as NodeJS, ReactJS, VueJS and also with multiple database technologies such as MongoDB, Firebase firestore, PostgreSQL, SQLite, and a few more.</p>
     <template v-slot:buttons>
-      <card-button link="/">Go back</card-button>
+      <card-button link="/">Home</card-button>
       <card-button link="/contact">Contact me</card-button>
       <card-button link="projects">My projects</card-button>
     </template>

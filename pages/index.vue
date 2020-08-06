@@ -24,6 +24,7 @@
   .pfp {
     border-radius: 50% !important;
     width: 100%;
+    max-width: 256px;
   }
   .username {
     text-align: center;

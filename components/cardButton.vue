@@ -1,5 +1,5 @@
 <template>
-  <nuxt-link prefetch :to="$props.link" class="button"><slot /></nuxt-link>
+  <nuxt-link prefetch exact :to="$props.link" class="button"><slot /></nuxt-link>
 </template>
 
 <script>

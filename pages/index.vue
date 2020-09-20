@@ -1,6 +1,6 @@
 <template>
   <card>
-    <img src="https://storage.googleapis.com/replit/images/1568917496694_0e7b83372ba6d598ac66619600655857.jpeg" alt="TheDrone7" class="pfp" />
+    <img src="/pfp.png" alt="TheDrone7" class="pfp" />
     <div class="username">TheDrone7</div>
     <template v-slot:buttons>
       <card-button link="/about">About me</card-button>

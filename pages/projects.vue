@@ -24,7 +24,7 @@
         </group>
         <group>
           <p-card title="Carnival" link="https://github.com/repl-it-discord/carnival">
-            A website where people cam share, discover, play and compete with the others, submit your own game, play someone else's game and more! This is currently under development.
+            A website where people can share, discover, play and compete with the others, submit your own game, play someone else's game and more! This is currently under development.
           </p-card>
           <p-card title="This website" link="/">
             This is my portfolio website, written using the nuxtjs framework, check out the source code on <a href="https://github.com/TheDrone7/portfolio" target="_blank">GitHub</a>.

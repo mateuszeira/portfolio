@@ -7,7 +7,7 @@
           <p>These are some of the projects I've worked on and loved them. I have worked on many other projects as well but these are the ones that are public and my favorites.</p>
         </div>
         <group>
-          <p-card title="GoodAnime" link="https://www.goodanime.tk">
+          <p-card title="GoodAnime" link="https://GoodAnime.thedrone7.repl.co">
             One of my oldest projects - randomly suggests an anime (series, movies or musical pieces) every 30 seconds. Currently covers over 14,000 anime.
           </p-card>
           <p-card title="Disco-OAuth" link="https://disco-oauth.tk">

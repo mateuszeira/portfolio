@@ -34,6 +34,9 @@
           <p-card title="Coronajam" link="https://coronajam.games/">
             A very simple 2D platformer game that explains the COVID-19 prevention tips and also provides useful links when you complete the game to further improve your knowledge about the pandemic and how you can stay safe.
           </p-card>
+          <p-card title="Descord" link="https://github.com/TheDrone7/descord">
+            A discord API wrapper for making discord bots in deno using TypeScript. Currently under development but planned to have a built-in logging system, command framework and database connectivity and much more!
+          </p-card>
         </group>
         <div class="footer">
           <p>Apart from the above projects, I've also written many tutorials such as hosting discord bots written with <a href="https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008" target="_blank">python</a> and <a href="https://repl.it/talk/learn/Hosting-discordjs-bots-on-replit-Works-for-both-discordjs-and-Eris/11027" target="_blank">NodeJS</a> on <a href="https://repl.it">repl.it</a>.</p>

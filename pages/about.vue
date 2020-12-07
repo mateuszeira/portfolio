@@ -1,7 +1,7 @@
 <template>
   <card>
     <div class="title">Who am I?</div>
-    <p>I am Harmeet Singh, a 17 year old web developer from a city called Jabalpur in India.</p>
+    <p>I am Harmeet Singh, a 18 year old web developer from a city called Jabalpur in India.</p>
     <p>I am a full stack web and game developer along with being a part time community manager at <a href="https://repl.it" target="_blank">repl.it</a>. Other than that, I enjoy listening to a large variety of music, cooking and reading fictional books. I also spend a lot of time binging anime and playing games such as League of Legends or Assassin's Creed.</p>
     <hr />
     <p>I am proficient with a lot of programming languages such as HTML/CSS/JS, Python3, C++, Rust, etc. Primarily, I use JS and am familiar with technologies such as NodeJS, ReactJS, VueJS and also with multiple database technologies such as MongoDB, Firebase firestore, PostgreSQL, SQLite, and a few more.</p>

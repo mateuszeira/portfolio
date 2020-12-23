@@ -16,7 +16,6 @@ export default {
     '@/assets/main.css'
   ],
   plugins: [
-    {src: 'https://www.googletagmanager.com/gtag/js?id=G-DP0XXLXS5W', mode: 'client'},
     {src: '~/plugins/analytics.js', mode: 'client'}
   ],
   components: true,
